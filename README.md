@@ -2,8 +2,6 @@
 
 Interactive Power BI dashboard for analyzing Year-to-Date (YTD), Prior Year-to-Date (PYTD), and Gross Profit Percentage (GP%) performance across countries, products, and time periods.
 
-**Live Demo:** *(Add Power BI link once published)*  
-
 ---
 
 ## 🎯 Highlights
